@@ -1,0 +1,10 @@
+.heroes{
+    color:rgb(59, 177, 177);
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+.badge{
+    padding-right: 3px;
+    font-weight: bold
+}
